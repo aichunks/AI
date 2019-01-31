@@ -39,7 +39,8 @@ OPENCV CONTRIB
 
 ```
 pip install opencv-contrib-python
-PIP INSTALL NUMPY
+PIP INSTALL 
+pip install python-tk
 ```
 
 ## Deployment
