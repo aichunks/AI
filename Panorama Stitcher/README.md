@@ -5,6 +5,12 @@
 ### What  is Panorama
 A Panorama is any wide-angle view or representation of a physical space, whether in painting, drawing, photography, film, seismic images or a three-dimensional model.
 
+**THE ACTUAL PICTURE TO ACHIEVE**
+
+<p align="center">
+  <img src="Example/mountain.jpg">
+</p>
+
 **HERE IS AN EXAMPLE HOW OUR PANORAMA WORKS**
 
 
